@@ -45,7 +45,7 @@
         Classic Calculator
     </div>
     <div class="calculator">
-        <input type="text" id="result"readonly>
+        <input type="text" id="result">
         <input type="button" value="1" onclick="appendToResult('1')">
         <input type="button" value="2" onclick="appendToResult('2')">
         <input type="button" value="3" onclick="appendToResult('3')">
